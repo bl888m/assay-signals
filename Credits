@@ -1,0 +1,12 @@
+# Credits
+
+assay-signals stands on a few simple things.
+
+- [assay](https://github.com/bl888m/assay) , the six-agent desk whose --json
+  output this tool reshapes. Without the desk there is nothing to reshape.
+- The Python standard library , csv, json and argparse do all the work here.
+  Zero third-party dependencies, on purpose.
+- The favorite-longshot literature and the Kelly criterion , the ideas behind
+  the numbers assay produces, credited in full in the assay repo.
+
+Built and maintained by @bl888m_eth. MIT licensed. Research, not advice.
