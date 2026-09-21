@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use assay-signals, please cite it as below."
+title: "assay-signals"
+abstract: >
+  A thin, read-only companion to assay that reshapes an `assay --json` run
+  into a CSV and a one-screen daily digest. No model, no estimate, no
+  orders: it only reshapes numbers assay already produced.
+authors:
+  - alias: bl888m
+url: "https://github.com/bl888m/assay-signals"
+license: MIT
